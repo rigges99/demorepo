@@ -10,6 +10,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello this is a gitbash test");
+            Console.WriteLine("Testing changes");
             Console.ReadLine();
         }
     }
